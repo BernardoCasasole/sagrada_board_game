@@ -1,0 +1,5 @@
+{"POOL":[],"HEADER":"UPDATE"}
+{"PLAYER":"test","CONNECTION":"true","HEADER":"UPDATE_PLAYER","TOKEN":"0"}
+{"PLAYER":"test1","CONNECTION":"true","HEADER":"UPDATE_PLAYER","TOKEN":"0"}
+{"ROUND_TRACK":[],"HEADER":"UPDATE"}
+{"PLAYER":["test","test1"],"HEADER":"UPDATE"}

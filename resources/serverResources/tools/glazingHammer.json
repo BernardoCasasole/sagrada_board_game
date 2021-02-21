@@ -1,0 +1,9 @@
+{
+  "name": "glazingHammer",
+  "conditions":["BEFORE_DRAFTING" , "SECOND_TURN"],
+  "toolColor": "CYAN",
+  "actions":1,
+  "action1": {
+    "type": "rollPool"
+  }
+}

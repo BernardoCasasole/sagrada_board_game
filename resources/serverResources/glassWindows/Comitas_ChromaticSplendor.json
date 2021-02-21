@@ -1,0 +1,8 @@
+{
+	"difficulty1":5,
+	"cells1":["YELLOW","","2","","6","","4","","5","GREEN","","","","GREEN","5","1","2","YELLOW","3",""],
+	"name1":"comitas",
+	"difficulty2":4, 
+	"cells2":["","","GREEN","","","2","YELLOW","5","CYAN","1","","RED","3","MAGENTA","","1","","6","","4"],
+	"name2":"chromaticSplendor"
+}

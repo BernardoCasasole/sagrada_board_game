@@ -1,0 +1,8 @@
+{	
+	"difficulty1":6,
+	"cells1":["","","1","","","1","GREEN","3","CYAN","2","CYAN","5","4","6","GREEN","","CYAN","5","GREEN",""],
+	"name1":"luxMundi",
+	"difficulty2":5,
+	"cells2":["","1","GREEN","MAGENTA","4","6","MAGENTA","2","5","GREEN","1","GREEN","5","3","MAGENTA","","","","",""],
+	"name2":"luxAstram"
+}

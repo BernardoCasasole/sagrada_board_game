@@ -1,0 +1,16 @@
+{
+  "name": "lathekin",
+  "conditions":[],
+  "toolColor": "YELLOW",
+  "actions":2,
+  "action1": {
+    "type": "move",
+    "marker": "d1",
+    "restriction":["CLOSE", "NUMBER", "COLOR"]
+  },
+  "action2": {
+    "type": "move",
+    "marker": "d2",
+    "restriction":["CLOSE", "NUMBER", "COLOR"]
+  }
+}

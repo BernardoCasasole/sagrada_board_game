@@ -1,0 +1,15 @@
+{
+  "name": "corkBakedStraightedge",
+  "conditions":["CANCEL_DRAFTING"],
+  "toolColor": "YELLOW",
+  "actions":2,
+  "action1": {
+    "type": "draft",
+    "marker": "d1"
+  },
+  "action2": {
+    "type": "place",
+    "marker": "d1",
+    "restriction":["COLOR", "NUMBER"]
+  }
+}

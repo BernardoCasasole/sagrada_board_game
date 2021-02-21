@@ -1,0 +1,23 @@
+{
+  "name": "tapWheel",
+  "conditions":[],
+  "toolColor": "RED",
+  "actions":3,
+  "action1": {
+    "type": "select",
+    "from": "roundTrack",
+    "marker": "d1"
+  },
+  "action2": {
+    "type": "move",
+    "marker": "d2",
+    "color": "d1",
+    "restriction": ["CLOSE", "NUMBER", "COLOR"]
+  },
+  "action3": {
+    "type": "move",
+    "marker": "d3",
+    "color": "d1",
+    "restriction": ["CLOSE", "NUMBER", "COLOR"]
+  }
+}

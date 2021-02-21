@@ -1,0 +1,31 @@
+{
+  "name": "fluxRemover",
+  "conditions":["CANCEL_DRAFTING"],
+  "actions":4,
+  "toolColor": "MAGENTA",
+  "action1": {
+    "type": "draft",
+    "marker": "d1"
+  },
+  "action2": {
+    "type": "swap",
+    "with": "diceBag",
+    "markerInContainer": "d1",
+    "markerInMap": "d1"
+  },
+  "action3": {
+    "type": "set",
+    "marker": "d1",
+    "set1": [1, 2, 3, 4, 5, 6],
+    "set2": [1, 2, 3, 4, 5, 6],
+    "set3": [1, 2, 3, 4, 5, 6],
+    "set4": [1, 2, 3, 4, 5, 6],
+    "set5": [1, 2, 3, 4, 5, 6],
+    "set6": [1, 2, 3, 4, 5, 6]
+  },
+  "action4": {
+    "type": "place",
+    "marker": "d1",
+    "restriction":["CLOSE", "COLOR", "NUMBER"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type":"set",
+  "name": "colorVariety",
+  "points": 4,
+  "set": ["RED","YELLOW","GREEN","MAGENTA","CYAN"]
+}

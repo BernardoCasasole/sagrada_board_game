@@ -1,0 +1,21 @@
+.root{
+    -fx-background-image: url("/clientResources/gui/loginBackground.jpg");
+    -fx-background-size: cover;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-background-color: linear-gradient(#808080, #000000);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.button:hover {
+    -fx-background-color: linear-gradient(#a9a9a9, #dcdcdc);
+}
+
+.button.color-picker{
+    -fx-background-color: linear-gradient(#a9a9a9, #dcdcdc);
+}
+
